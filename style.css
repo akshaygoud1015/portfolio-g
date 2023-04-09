@@ -1,0 +1,136 @@
+body, html,section {
+    height: 100%;
+    
+  }
+
+  
+  .bg {
+    /* The image used */
+    background-image: url("images/img1.jpg");
+  
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .welcome{
+    
+    color: rgb(252, 194, 107);
+    font-size: 8rem;
+    font-family: 'Zilla Slab', serif;
+    font-weight: lighter;
+    position: relative;
+    top: 50px;
+    left: 750px;
+    }
+    
+    h1{
+        color: rgb(252, 194, 107);
+        font-family: 'Zilla Slab', serif;
+
+    }
+
+   .navbar-brand{
+    color: rgb(252, 194, 107);
+    font-family: 'Zilla Slab', serif;
+   }
+  
+  .nn{
+    color: rgb(252, 194, 107);
+    font-size: 5rem;
+    font-family: 'Zilla Slab', serif;
+    position: relative;
+    top: 20px;
+    left: 20px;
+    }
+
+ .bio{
+    color: rgb(253, 203, 129);
+    font-size: 2rem;
+    position: relative;
+    top: 30px;
+    left: 20px;
+    }
+     
+ 
+ ul{
+    font-family: 'Zilla Slab', serif;
+ }
+ .one{
+    position:relative;
+    left:350px;
+}
+.two{
+    position:relative;
+    left:150px;
+    
+}
+.three{
+    position:relative;
+    right:50px;
+    
+}
+.four{
+    position:relative;
+    right:250px;
+    
+}
+
+.skills{
+    background-color: rgb(41, 41, 41);
+}
+
+.ski{
+    border-radius: 50%;
+}
+table{
+    margin: 180px 50px 0px;
+}
+td{
+    padding: 40px;
+
+}
+.cen {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.pro{
+    background-color: rgb(41, 41, 41);
+}  
+h5{
+    font-family: 'Zilla Slab', serif;
+    font-weight: bold;
+    font-size: xx-large;
+
+}
+p{
+    font-family: 'Zilla Slab', serif;
+    font-weight: bold;
+
+}
+h2,h3{
+    color: rgb(253, 203, 129);
+
+    font-family: 'Zilla Slab', serif;
+
+}
+
+.exp{
+    background-color: rgb(41, 41, 41);
+
+}
+
+.con{
+    background-color: rgb(41, 41, 41);
+
+}
+.foot{
+    border-radius: 50%;
+    height: 35px;
+
+}
